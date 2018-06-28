@@ -15,5 +15,9 @@ dialog message ♥json
 
 Results are returned as JSON formatted into string
 
-See more about MongoDB connection string
-https://mongodb.github.io/mongo-java-driver/3.5/javadoc/com/mongodb/ConnectionString.html
+See more:<br/>
+<ul>
+<li><a href="https://mongodb.github.io/mongo-java-driver/3.5/javadoc/com/mongodb/ConnectionString.html" target="_blank">about Mongo connection string</a>
+<li><a href='https://www.tutorialspoint.com/mongodb/mongodb_query_document.htm' target="_blank">format query into collection </a>
+<li><a href='https://www.tutorialspoint.com/mongodb/mongodb_sort_record.htm' target="_blank">sorting in MongoDB</a>
+</ul>
